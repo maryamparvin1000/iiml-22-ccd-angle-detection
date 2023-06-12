@@ -1,0 +1,60 @@
+*{
+  background: #040A11;
+  color: white;
+  /*background-color: white;*/
+}
+QPushButton {
+  background: #47525e;
+  color: white;
+  /*border: 2px solid #47525e;*/
+  border-radius: 10px;
+  font-size: 16px;
+  /*padding: 15px;*/
+  padding: 15px 75px 15px 75px;
+}
+
+QPushButton:checked {
+  background: #343c45;
+  color: white;
+}
+
+QPushButton:hover {
+  background: #343c45;
+}
+
+QPushButton:checked:hover {
+  color: #000;
+  background: #47525e;
+}
+
+QPushButton:pressed {
+  background: #47525e;
+  color: #fff;
+}
+
+StartPage #ccd_label{
+  font-size: 20px;
+  border: 2px solid #6ca2c0;
+  /*border-radius: 5px;*/
+  padding: 15px;
+  alignment: center;
+  color: #495460
+}
+
+StartPage #speech_label{
+  color: #7a8493;
+  font-size: 16px;
+}
+
+StartPage #speech_widget{
+  /*background: #343c45;*/
+  margin: 0;
+}
+
+ResultPage #angle_btn{
+  background-color: chocolate;
+}
+
+ResultPage #status_label{
+  background-color: purple;
+}

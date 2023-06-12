@@ -1,0 +1,45 @@
+{
+    "angleL": 129.13820456443108,
+    "angleR": 124.12219034152506,
+    "Femoral Shaft Centerline Left": [
+        [
+            2618.0,
+            1442.0
+        ],
+        [
+            2492.0,
+            0.0
+        ]
+    ],
+    "Femoral Shaft Centerline Right": [
+        [
+            413.0,
+            1414.0
+        ],
+        [
+            630.0,
+            0.0
+        ]
+    ],
+    "Femoral Neck Centerline Left": [
+        [
+            2282.0,
+            1393.0
+        ],
+        [
+            2751.0,
+            938.0
+        ]
+    ],
+    "Femoral Neck Centerline Right": [
+        [
+            287.0,
+            889.0
+        ],
+        [
+            770.0,
+            1337.0
+        ]
+    ],
+    "path_to_image": "C:/Fateme/FAU/5/Intraoperative_imaging/project/c2d2-client/git-client/iiml-22-ccd-angle-detection/c2d2-client/CR000001.png"
+}
